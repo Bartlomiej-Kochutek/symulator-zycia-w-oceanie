@@ -315,3 +315,4 @@ inline Fragment_oceanu::Fragment_oceanu()
 			std::rand() % Ustawienia::rozmiar_x, std::rand() % Ustawienia::szerokosc_dna + Ustawienia::wysokosc_dna, kolor));
 	}
 }
+

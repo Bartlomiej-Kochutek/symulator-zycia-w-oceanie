@@ -117,3 +117,4 @@ inline void Obserwator::rozpoznaj_organizm(std::vector<Ryba*>& ryby, std::vector
 			std::cout << "nie rozpoznano prawidlowo \n";
 	}
 }
+

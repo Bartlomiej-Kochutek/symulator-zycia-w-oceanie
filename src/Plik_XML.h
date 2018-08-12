@@ -281,3 +281,4 @@ inline void Plik_XML::wczytaj_calosc(std::vector<Ryba*>& ryby, std::vector<Gabka
 	if(!Wczytaj_z_pliku(nazwa_pliku_gabki, gabki))
 		std::cout << "nie udalo sie wczytac zbioru gabek \n";
 }
+

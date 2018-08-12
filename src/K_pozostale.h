@@ -450,3 +450,4 @@ inline void Algorytm_genetyczny::uplyw_czasu(std::vector<Gabka*>& wektor)
 			++it;
 	}
 }
+
